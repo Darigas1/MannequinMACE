@@ -1,0 +1,792 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "CD2B01ED531CE4C68A1892DABE2A6131F535DBC8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B2A7F335FC62A023E1D59DE2ADBD3C72F13800",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "211087F62EFBB7C1BE4972E660D86BC3FFBFC5C0",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EACFA4020082090A51165F6F8F385B9C8ABCC6B2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B75365FD1D472D9BDDB570FDE8960C5F56236FF0",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "580BAEC620B37DE8A1FE8FC479D667FE85792074",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6118C2EF81328E746F6736EACA89ADF8A3761CC6",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "84E02F5928102B7C930E738C991C08D607470873",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "DC662FADED5C77B6D4456A8A78B04DCC16D274EC",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC4F45367FAC73ACCAFA8CD9667AB56C2F23608",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DDFDED41BEC619FC7E5912E1D2B583E3DD534B15",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/YBot/Alpha_Joints_MAT",
+				"/Game/MAIN_MannyTD/Models/YBot/Alpha_Body_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "EBA88B456A7DEC6B625154278E4CECBE08972EB8",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Void/M_VoidCore"
+			]
+		},
+		{
+			"ShaderMapHash": "C085F2211AD61C0FDC0F73B8CBAB41A8E95C80AC",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Levels/M_SimpleColored"
+			]
+		},
+		{
+			"ShaderMapHash": "85F43B4220E74B26E4145C29F991CCA272FDCFFD",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Bubble"
+			]
+		},
+		{
+			"ShaderMapHash": "B1C2266B3C580B912620935758E8722C79E4A72A",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_GlowingOrb"
+			]
+		},
+		{
+			"ShaderMapHash": "0C931807A79289976A31D2C4768D6787C07FB6B4",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid_Transparent"
+			]
+		},
+		{
+			"ShaderMapHash": "4BA8896BE742775FC7859DAF5013C6E9845265CF",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9CCBF56CDD8E0AD8CC31A8435C88D743B98E9ED1",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "51C7B05DD3F62879F54D0D1972E720772888456B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1F40DFD96D8AE3D0F8486C03725DDC2EEC53AD0",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "A6AA03CB707A2A35E6B21885A08ED26D847E4CE1",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8EB3513CF679B54DEBE8BA0936A5A42765B75F9A",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Hologram_Cone"
+			]
+		},
+		{
+			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B155BF25ABE1B5D74C1CCF6398D60B69E8E7C0A",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7E49B2C7E4F45A769712E5F5D597423E50A31090",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3F7895F3B3EC85C81839B53617DEF4F1A94DA828",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8C73641D32B7DA2DEF6B40664D0A99BA9A0CD673",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A91267099E00CB6E114581FBC960569A39E5CE2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6CE9731DBD31520A0F28233FD6C531B40ED2E593",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "25505245776F29D612F7A2A47DF00B8F08CF6DFD",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E5034BD8AEBCCEB10C9122526F99557CD4CE099A",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Lightning/M_LightningBase"
+			]
+		},
+		{
+			"ShaderMapHash": "D3732FFA867D6CD3EDF2ACF6B7D2E2E9749A408B",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Fire/M_Flip"
+			]
+		},
+		{
+			"ShaderMapHash": "15F73D2D0778636360FD89E38582B973EBC511C2",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_WaterSplash_1"
+			]
+		},
+		{
+			"ShaderMapHash": "81EA04A49D206A80AB8317D3A71B1B4115F5667D",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Trail_2",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Trail_0",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Trail_4",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Trail_1"
+			]
+		},
+		{
+			"ShaderMapHash": "94AA7E1FAAFE854F6750FEE69211B1201BFF8E52",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Droplet"
+			]
+		},
+		{
+			"ShaderMapHash": "484B611ADF9D3F4DAC85FFA5DD8EECD10F4F0329",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Trail_3"
+			]
+		},
+		{
+			"ShaderMapHash": "13F088F2A1E0B045EFC5DADF23878092E6078764",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Shaft_01"
+			]
+		},
+		{
+			"ShaderMapHash": "97CB3C03B8D5A85AAEF43014639331D192208A75",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Fire/M_FireWave"
+			]
+		},
+		{
+			"ShaderMapHash": "A9B93DBC0CFFD7AFFB7D9398230022D273197409",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Droplets"
+			]
+		},
+		{
+			"ShaderMapHash": "8270AC69112E7634C315ABECD7C35BA6337ED80E",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "1A9F7397DA307820E2EBE0C7863081BCED92308C",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_LeafFragFlip"
+			]
+		},
+		{
+			"ShaderMapHash": "6DDE487E3C38A0F548B55FC2C80D322484ACA7F5",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_HologramRay"
+			]
+		},
+		{
+			"ShaderMapHash": "58D66DAE04BBACF1D0F541290C791F5602930782",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Ember_Thorn"
+			]
+		},
+		{
+			"ShaderMapHash": "CD6F6595D3A12118B52068B4B2B2DC5E4B9A2C13",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Caustics",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_NatureEnergy",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Acidpool3",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Acidpool2",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Acidpool"
+			]
+		},
+		{
+			"ShaderMapHash": "DBF2E2FF893AD34F1A08A939D7FDC3A49946ADB3",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Refractive"
+			]
+		},
+		{
+			"ShaderMapHash": "BDF2F2515D86D4B05A50A9D4B30099E39526ED16",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_NatureTrails"
+			]
+		},
+		{
+			"ShaderMapHash": "D59CBF0DC672727802B212983E80CE0F9644D60B",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_MagicCircle",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_ImpactDecal"
+			]
+		},
+		{
+			"ShaderMapHash": "2B169ECA883C0886DBEB6BBC0406A4EF77A9A300",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Trail_5"
+			]
+		},
+		{
+			"ShaderMapHash": "A2EA0EE8D4303814A4B218A1A99B8FF2311B5A70",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_ControlThick"
+			]
+		},
+		{
+			"ShaderMapHash": "6D5C088E0B7E47F23A999574DAE11EFB916206FD",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Ice/M_SpikeIce"
+			]
+		},
+		{
+			"ShaderMapHash": "F33850AFFB920CFEE69C96EF73143FF94BA183E4",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Guns/Materials/M_GunPlasma_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "455A6764C655533F015944ADEF6FF7564A10B176",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Guns/Materials/M_GunPlasma_Green"
+			]
+		},
+		{
+			"ShaderMapHash": "DE7654BFB2880465940E372D0BFE90292F4D1269",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Guns/Materials/M_GunPlasma_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "C470AA3E4A79E0407C3687A212FAF0F3A3E319FD",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Guns/Materials/M_GunPlasma"
+			]
+		},
+		{
+			"ShaderMapHash": "DD7F73FBB6A3EBFFE1E6D1AF0DB353A60502F913",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_MainBase"
+			]
+		},
+		{
+			"ShaderMapHash": "6BA3DDD162B1DBC5C1277FE5D07EAA0E864457FB",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_Blocker_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "487616879B9F735A5A473EE1B1E83F4D510E06FD",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_Blocker"
+			]
+		},
+		{
+			"ShaderMapHash": "BF0D825E4A82D2CD9BC9CC12971A5E08BBB1F0F6",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_SplashTower_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "B8EA8168F8DCE953764BF6EC2BD4B220174BC333",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_SplashTower"
+			]
+		},
+		{
+			"ShaderMapHash": "59625FB612759B953CAD8420D36A5DC0A369142B",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_PoisonTower_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "02D194DE2BCE78A98D18FF3CA3079017A5855A13",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_PoisonTower"
+			]
+		},
+		{
+			"ShaderMapHash": "24105496882F5BE4C7783DEACB306F3515F6BFCB",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_FrostTower_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "EAA341B1A1FE833623A32D4F7CFDB88F37A3EC27",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_FrostTower"
+			]
+		},
+		{
+			"ShaderMapHash": "71895011C68BFACB7A47F2B369BEAE2E745411E3",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_AttackTower_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "59987FBEB0525C7C7F9A0EEA9DBCC5A7322DBA69",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Buildings/Materials/M_AttackTower"
+			]
+		},
+		{
+			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "CC55EA1DC806B30DD6AE1628892C72F7943F02A8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "171CE9587C2934D78F628D6E4E5FA7C2D9245379",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/ShadowIsles/M_Aura"
+			]
+		},
+		{
+			"ShaderMapHash": "3AA79520B3696B4CCAE55185E6587EEA3B5CCD27",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Light_Vertical"
+			]
+		},
+		{
+			"ShaderMapHash": "7D416FF02454B8A6CCEB467D56A591568EFC5AA2",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Head_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "9C58EB0CC49E50D1CE710B4EEFA034CCFBAD7DCB",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Shaft_00"
+			]
+		},
+		{
+			"ShaderMapHash": "28729FC640B50DEB1BCEC2A587BFC71462F9B0DF",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Refractive_Panning"
+			]
+		},
+		{
+			"ShaderMapHash": "318156AE8548F2C684EEDBDB58A84E67D8CCF318",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_LiquidPool"
+			]
+		},
+		{
+			"ShaderMapHash": "2500064791E28F0097F8A35E5C9CA921300E5C04",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Flare"
+			]
+		},
+		{
+			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E171CFA61F0313D35C414F4721E393617AAFB691",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "14CC31EF34BEE66179FCF777D126490DD5DFA5DD",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "648B34FBF1A6265873DAA2FDE756E9E90165B27A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "08AB2FB6F0B0D7F55EC432ED817F96CBDE053FE7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "23B1EF696CB55868211558A2D14ECFFBB29B851A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "C0F45E2050FE193CADC3F24D78557758A47BEF20",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Fire/MI_FireWaveFloor",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Fire/MI_FireWave2",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Fire/MI_FireWave",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/Fire/MI_FireSmoke"
+			]
+		},
+		{
+			"ShaderMapHash": "39FAABE33F699F052BBEF4B8D37A2EE4EE9AA3FD",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_9",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_8",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_7",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_6",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_5",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_4",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_3",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_22",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_21",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_20",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_19",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_18",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_17",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_16",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_15",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_13",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_11",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Caustics_10"
+			]
+		},
+		{
+			"ShaderMapHash": "DBFB818AE8E52F9A736650A041F9A43FF8925D46",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_NatureTrail2",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_NatureTrail"
+			]
+		},
+		{
+			"ShaderMapHash": "7C55816BC9D42BFC510802F2B93B0E17353580CD",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Head_Shadow_0",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_HeadProj_Water_Inst",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_HeadProj_Void_Inst",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_HeadProj_Poison_Inst1",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_HeadProj_Nature_Inst",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_HeadProj_Frost_Inst1",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_HeadProj_Fire_Inst",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_HeadProj_Arcane_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "FBACA5E3C9A553CDA370E9C90BADAE895C6032EC",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_HeadBloom_0"
+			]
+		},
+		{
+			"ShaderMapHash": "9F6152CB34215B2C2B23AEBCC50DD9B0067BDE14",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Flare_9_Translucent1",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Flare_9_Translucent",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Flare_8_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "5B482AAB79D763ABC5B874BC05F75D8E966A4E25",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_Ember"
+			]
+		},
+		{
+			"ShaderMapHash": "403464B6B4543A41955721A11A2D42324D19C706",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Hologram_HalfSphere1_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "3B2B19FA5414E6DAD9643AF0062E6F480FA16D8E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "82F00B1884068C94173BFD1DAEA0915E6C22A5EA",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Poison/NS_Poison_Muzzle_Red_Fix",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Poison/NS_Poison_Muzzle_Purple_Fix",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Poison/NS_Poison_Muzzle",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Arcane/NS_Arcane_Muzzle_Yellow"
+			]
+		},
+		{
+			"ShaderMapHash": "71F12A4EF622827ED827887C3B0DE720870E340F",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Player/Materials/M_Player",
+				"/Game/MAIN_MannyTD/Models/Enemies/Materials/M_Enemy",
+				"/Game/MAIN_MannyTD/Models/Enemies/Materials/Instances/MI_Enemy_01"
+			]
+		},
+		{
+			"ShaderMapHash": "82FA1B69661E3A54D3C1A73DB12FD906CAA494AB",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "7FA789DE058530E1A29F1D0FD3FE70AB9D0FFC96",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/M_ParticleCircle"
+			]
+		},
+		{
+			"ShaderMapHash": "8B04BACC9ADCFF09F7D6A58C39ED145494CD2DCB",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Player/NS_PlayerPoisonAttack_Trail",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Tower/NS_TowerPoisonAttack_Trail",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Poison/NS_Poison_Trail"
+			]
+		},
+		{
+			"ShaderMapHash": "FCB15B8EBC77F37FD61430515FCA4AADCED012F1",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Void/NS_Void_Trail_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "80E46BAE93451E09E421787B0A6B3336DF8335B2",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Ice/NS_Ice_Trail_White"
+			]
+		},
+		{
+			"ShaderMapHash": "2E4590CE8314DC3D36D0BF9BC9A9573F11AB7660",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Nature/NS_Nature_Trail_Orange"
+			]
+		},
+		{
+			"ShaderMapHash": "6C9E52263478ADFB2B1C30B4B672CD7EDB4499D9",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Nature/NS_Nature_Impact_Orange"
+			]
+		},
+		{
+			"ShaderMapHash": "C60C5390E4E15A9DE1B6B2581BE87D68A85FCFE6",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Nature/NS_Nature_Impact_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "FAD1B7EDC29689ED7DA8A55C2CC00A40EB221177",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Materials/MI_Hologram_HalfSphere1_Inst_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "29C64B2FCF7D80889A787B48F8602C5CDC4F807B",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "419EE9E96F6EFD06A21D0F8BA7433C8F5C9FDF70",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "7D0343712D2BD4CFE1064D65CDDDD8D71CC97723",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Void/NS_VoidAOE_RedOrange",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Void/NS_VoidAOE_Green",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Void/NS_VoidAOE"
+			]
+		},
+		{
+			"ShaderMapHash": "8A0E2BA33E11B3E067BE0595789388B961B27A2C",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Tower/NS_TowerFrostAttack_Impact",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/Player/NS_PlayerFrostAttack_Impact",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Ice/NS_IceAEO_Red",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Ice/NS_IceAEO_Green",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Ice/NS_IceAEO"
+			]
+		},
+		{
+			"ShaderMapHash": "5EC1FC7FD978C0554CBE0F990909D98694A07AFD",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Lightning/NS_LightningAEO_White",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Lightning/NS_LightningAEO_Orange",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Lightning/NS_LightningAEO"
+			]
+		},
+		{
+			"ShaderMapHash": "1D55A64F42EC67721E49A3A7988A401115C1453B",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Ice/NS_IceAEO_Red",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Ice/NS_IceAEO_Green",
+				"/Game/MAIN_MannyTD/Models/Projectiles/Niagara/AOE/Ice/NS_IceAEO"
+			]
+		},
+		{
+			"ShaderMapHash": "3B55D2E46CBF35E980E64B083983BEB1B4AAB204",
+			"Assets": [
+				"/Game/MAIN_MannyTD/Models/Player/Materials/Instances/MI_Player_02",
+				"/Game/MAIN_MannyTD/Models/Enemies/Materials/Instances/MI_Enemy_02"
+			]
+		},
+		{
+			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "2618E300AA8548720554580F88D0E1391D31DA4C",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		}
+	]
+}
