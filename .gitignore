@@ -10,3 +10,5 @@
 # ignore ALL .log files
 *.log
 *.log
+Saved/Config/WindowsEditor/Engine.ini
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
