@@ -1,0 +1,1192 @@
+﻿Log file open, 08/20/22 21:38:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=27316)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MannequinMACE
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:\UE_5.0\projects\Shared_MANNYTD\MannequinMACE.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="cd6f5c0f40c6603c52ce00ba702b3c8e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.213218
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-49A586CE4F3C835CF7DABFA6C9F6CE54
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1889] (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.20-19.38.54:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.20-19.38.54:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.20-19.38.54:902][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.20-19.38.54:904][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.20-19.38.54:914][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.20-19.38.54:914][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.20-19.38.55:030][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2080 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.20-19.38.55:030][  0]LogD3D12RHI: Adapter has 11049MB of dedicated video memory, 0MB of dedicated system memory, and 8157MB of shared system memory, 1 output[s]
+[2022.08.20-19.38.55:032][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.20-19.38.55:032][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8157MB of shared system memory, 0 output[s]
+[2022.08.20-19.38.55:032][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.20-19.38.55:032][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.20-19.38.55:032][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.20-19.38.55:032][  0]LogHAL: Display: Platform has ~ 16 GB [17107644416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.20-19.38.55:032][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.20-19.38.55:032][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.20-19.38.55:032][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.20-19.38.55:032][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.20-19.38.55:032][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../projects/Shared_MANNYTD/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.20-19.38.55:032][  0]LogInit: Computer: DESKTOP-6F2GCBA
+[2022.08.20-19.38.55:032][  0]LogInit: User: deereper
+[2022.08.20-19.38.55:032][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.08.20-19.38.55:032][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.20-19.38.55:033][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.20-19.38.55:033][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.20-19.38.55:033][  0]LogMemory: Process Physical Memory: 283.22 MB used, 292.58 MB peak
+[2022.08.20-19.38.55:033][  0]LogMemory: Process Virtual Memory: 248.33 MB used, 248.33 MB peak
+[2022.08.20-19.38.55:033][  0]LogMemory: Physical Memory: 8884.80 MB used,  7430.32 MB free, 16315.12 MB total
+[2022.08.20-19.38.55:033][  0]LogMemory: Virtual Memory: 20060.71 MB used,  9054.41 MB free, 29115.12 MB total
+[2022.08.20-19.38.55:033][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.20-19.38.55:038][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.20-19.38.55:047][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.20-19.38.55:048][  0]LogInit: Using OS detected language (de-DE).
+[2022.08.20-19.38.55:048][  0]LogInit: Using OS detected locale (de-DE).
+[2022.08.20-19.38.55:050][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so 'de' will be used for the language.
+[2022.08.20-19.38.55:050][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2022.08.20-19.38.55:050][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2022.08.20-19.38.55:050][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2022.08.20-19.38.55:050][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2022.08.20-19.38.55:050][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2022.08.20-19.38.55:050][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2022.08.20-19.38.55:050][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2022.08.20-19.38.55:051][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.20-19.38.55:062][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.20-19.38.55:062][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - (Keyboard).
+[2022.08.20-19.38.55:063][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2022.08.20-19.38.55:072][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.20-19.38.55:072][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.20-19.38.55:209][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.20-19.38.55:212][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.20-19.38.55:212][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.20-19.38.55:272][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.20-19.38.55:315][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.20-19.38.55:320][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.20-19.38.55:330][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.20-19.38.55:347][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.20-19.38.55:347][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.20-19.38.55:374][  0]LogD3D12RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.20-19.38.55:374][  0]LogWindows: Attached monitors:
+[2022.08.20-19.38.55:374][  0]LogWindows:     resolution: 3440x1440, work area: (0, 0) -> (3440, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.20-19.38.55:374][  0]LogWindows: Found 1 attached monitors.
+[2022.08.20-19.38.55:374][  0]LogWindows: EnumDisplayDevices:
+[2022.08.20-19.38.55:374][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.20-19.38.55:374][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.08.20-19.38.55:374][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.20-19.38.55:374][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.08.20-19.38.55:374][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.08.20-19.38.55:374][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2022.08.20-19.38.55:374][  0]LogD3D12RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.08.20-19.38.55:374][  0]LogD3D12RHI:      Driver Date: 6-23-2022
+[2022.08.20-19.38.55:374][  0]LogRHI: Texture pool is 6477 MB (70% of 9252 MB)
+[2022.08.20-19.38.55:374][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.20-19.38.55:374][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.20-19.38.55:383][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.20-19.38.55:387][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/UE_5.0/projects/Shared_MANNYTD/MannequinMACE.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UE_5.0/projects/Shared_MANNYTD/Intermediate/TurnkeyReport_0.log" -log="E:/UE_5.0/projects/Shared_MANNYTD/Intermediate/TurnkeyLog_0.log" -project="E:/UE_5.0/projects/Shared_MANNYTD/MannequinMACE.uproject"  -platform=all'
+[2022.08.20-19.38.55:387][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/UE_5.0/projects/Shared_MANNYTD/MannequinMACE.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/UE_5.0/projects/Shared_MANNYTD/Intermediate/TurnkeyReport_0.log" -log="E:/UE_5.0/projects/Shared_MANNYTD/Intermediate/TurnkeyLog_0.log" -project="E:/UE_5.0/projects/Shared_MANNYTD/MannequinMACE.uproject"  -platform=all" ]
+[2022.08.20-19.38.55:404][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.20-19.38.55:409][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.20-19.38.55:409][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.20-19.38.55:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.20-19.38.55:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.20-19.38.55:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.20-19.38.55:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.20-19.38.55:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.20-19.38.55:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.20-19.38.55:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.20-19.38.55:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.20-19.38.55:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.20-19.38.55:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.20-19.38.55:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.20-19.38.55:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.20-19.38.55:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.20-19.38.55:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.20-19.38.55:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.20-19.38.55:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.20-19.38.55:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.20-19.38.55:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.20-19.38.55:442][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.20-19.38.55:447][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.20-19.38.55:449][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.20-19.38.55:449][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.20-19.38.55:449][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.20-19.38.55:449][  0]LogTargetPlatformManager:   PCM
+[2022.08.20-19.38.55:451][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.20-19.38.55:451][  0]LogTargetPlatformManager:   BINKA
+[2022.08.20-19.38.55:451][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.20-19.38.55:451][  0]LogTargetPlatformManager:   OGG
+[2022.08.20-19.38.55:451][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.20-19.38.55:451][  0]LogTargetPlatformManager:   OPUS
+[2022.08.20-19.38.55:482][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.20-19.38.55:486][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.20-19.38.55:488][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.20-19.38.55:488][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.20-19.38.55:488][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.20-19.38.55:488][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.20-19.38.55:488][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.20-19.38.55:488][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.20-19.38.55:488][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.20-19.38.55:488][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.20-19.38.55:489][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../projects/Shared_MANNYTD/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.20-19.38.55:489][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.20-19.38.55:489][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../projects/Shared_MANNYTD/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.20-19.38.55:489][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.20-19.38.55:491][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.08.20-19.38.55:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../projects/Shared_MANNYTD/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.20-19.38.55:491][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.20-19.38.55:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../projects/Shared_MANNYTD/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.20-19.38.55:491][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.20-19.38.55:506][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.20-19.38.55:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.20-19.38.55:506][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.20-19.38.55:511][  0]LogDerivedDataCache: Speed tests for C:/Users/deereper/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.08.20-19.38.55:512][  0]LogDerivedDataCache: Display: Performance to C:/Users/deereper/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1697.75MBs, RandomWriteSpeed=226.03MBs. Assigned SpeedClass 'Local'
+[2022.08.20-19.38.55:512][  0]LogDerivedDataCache: Using Local data cache path C:/Users/deereper/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.20-19.38.55:512][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.20-19.38.55:512][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.20-19.38.55:517][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.20-19.38.55:517][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.20-19.38.55:517][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../projects/Shared_MANNYTD/Intermediate/Shaders/WorkingDirectory/25196/).
+[2022.08.20-19.38.55:517][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/deereper/AppData/Local/Temp/UnrealShaderWorkingDir/90AEFFC643BA4FE8AE3D20B5FC2633B3/'.
+[2022.08.20-19.38.55:517][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.20-19.38.55:517][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.08.20-19.38.56:639][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.20-19.38.56:639][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.20-19.38.56:670][  0]LogAssetRegistry: FAssetRegistry took 0.0090 seconds to start up
+[2022.08.20-19.38.56:675][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.20-19.38.56:824][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.20-19.38.56:824][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.20-19.38.57:017][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.20-19.38.57:017][  0]LogDeviceProfileManager: Active device profile: [00000AD419462A00][00000AD40D670000 50] WindowsEditor
+[2022.08.20-19.38.57:017][  0]LogDeviceProfileManager: Profiles: [00000AD4194624C0][00000AD3FEEE0000 50] Windows, [00000AD419462A00][00000AD40D670000 50] WindowsEditor, [00000AD419460000][00000AD419400000 50] WindowsServer, [00000AD419461880][00000AD419405000 50] WindowsClient, [00000AD4194608C0][00000AD419407800 50] IOS, [00000AD419462D80][00000AD41940A000 50] iPadAir2, [00000AD419464EC0][00000AD40D677800 50] IPadPro, [00000AD419465240][00000AD41940C800 50] iPadAir3, [00000AD419461C00][00000AD419420000 50] iPadAir4, [00000AD419461180][00000AD419425000 50] iPadMini4, [00000AD4194640C0][00000AD419427800 50] iPadMini5, [00000AD419460700][00000AD41942A000 50] iPadMini6, [00000AD419467FC0][00000AD4194C0000 50] iPhone6S, [00000AD419468340][00000AD4194C2800 50] iPhone7, [00000AD4194686C0][00000AD4194C5000 50] iPodTouch7, [00000AD419461A40][00000AD4194CA000 50] iPhone6SPlus, [00000AD419461F80][00000AD4194CC800 50] iPhone7Plus, [00000AD419466C80][00000AD419402800 50] iPhoneSE, [00000AD4194671C0][00000AD41942C800 50] iPhone8, [00000AD419468880][00000AD4194C7800 50] iPhone8Plus, [00000AD419460380][00000AD4194B0000 50] iPhoneX, [00000AD419467000][00000AD4194B5000 50] iPhoneXS, [00000AD419466AC0][00000AD4194B7800 50] iPhoneXSMax, [00000AD4194616C0][00000AD4194BA000 50] iPhoneXR, [00000AD419463480][00000AD4194BC800 50] iPhone11, [00000AD419466E40][00000AD419422800 50] iPhone11Pro, [00000AD419465400][00000AD419430000 50] iPhone11ProMax, [00000AD419462300][00000AD419435000 50] iPhoneSE2, [00000AD419462140][00000AD419437800 50] iPhone12Mini, [00000AD419467A80][00000AD41943A000 50] iPhone12, [00000AD419463B80][00000AD41943C800 50] iPhone12Pro, [00000AD419462840][00000AD4194B2800 50] iPhone12ProMax, [00000AD419462BC0][00000AD419440000 50] iPhone13Mini, [00000AD419467540][00000AD419445000 50] iPhone13, [00000AD4194639C0][00000AD419447800 50] iPhone13Pro, [00000AD419465B00][00000AD41944A000 50] iPhone13ProMax, [00000AD419461340][00000AD41944C800 50] iPadPro105, [00000AD419464280][00000AD419432800 50] iPadPro129, [00000AD419466200][00000AD419450000 50] iPadPro97, [00000AD4194601C0][00000AD419455000 50] iPadPro2_129, [00000AD419468A40][00000AD419457800 50] iPad5, [00000AD419460540][00000AD41945A000 50] iPad6, [00000AD419465E80][00000AD41945C800 50] iPad7, [00000AD4194632C0][00000AD419442800 50] iPad8, [00000AD419466580][00000AD4194E0000 50] iPad9, [00000AD419465080][00000AD4194E5000 50] iPadPro11, [00000AD419466040][00000AD4194E7800 50] iPadPro2_11, [00000AD419460E00][00000AD4194EA000 50] iPadPro3_11, [00000AD419467700][00000AD4194EC800 50] iPadPro3_129, [00000AD419461DC0][00000AD419452800 50] iPadPro4_129, [00000AD419466740][00000AD4194F0000 50] iPadPro5_129, [00000AD419465780][00000AD4194F5000 50] AppleTV, [00000AD419461500][00000AD4194F7800 50] AppleTV4K, [00000AD419463800][00000AD4194FA000 50] TVOS, [00000AD41946A640][00000AD4194E2800 50] Mac, [00000AD41946A9C0][00000AD4194FC800 50] MacEditor, [00000AD41946AB80][00000AD419500000 50] MacClient, [00000AD419463F00][00000AD419505000 50] MacServer, [00000AD41946A480][00000AD41950A000 50] Linux, [00000AD41946AF00][00000AD419507800 50] LinuxEditor, [00000AD419469300][00000AD41950C800 50] LinuxArm64Editor, [00000AD419466900][00000AD4194F2800 50] LinuxArm64, [00000AD419463640][00000AD419510000 50] LinuxClient, [00000AD41946A100][00000AD419515000 50] LinuxArm64Client, [00000AD419460FC0][00000AD419517800 50] LinuxServer, [00000AD419468C00][00000AD41951A000 50] LinuxArm64Server, [00000AD419464D00][00000AD41951C800 50] Android, [00000AD419469840][00000AD419502800 50] Android_Preview_OpenGL, [00000AD41946A800][00000AD419520000 50] Android_Preview_Vulkan, [00000AD419468180][00000AD419525000 50] Android_Low, [00000AD419468DC0][00000AD419527800 50] Android_Mid, [00000AD419467C40][00000AD41952A000 50] Android_High, [00000AD419464440][00000AD41952C800 50] Android_Default, [00000AD419462F40][00000AD419512800 50] Android_Adreno4xx, [00000AD419465940][00000AD419530000 50] Android_Adreno5xx_Low, [00000AD419460A80][00000AD419535000 50] Android_Adreno5xx, [00000AD41946B280][00000AD419537800 50] Android_Adreno6xx, [00000AD4194655C0][00000AD41953A000 50] Android_Adreno6xx_Vulkan, [00000AD419469A00][00000AD41953C800 50] Android_Adreno7xx, [00000AD419469F40][00000AD419522800 50] Android_Adreno7xx_Vulkan, [00000AD4194694C0][00000AD419540000 50] Android_Mali_T6xx, [00000AD419467380][00000AD419545000 50] Android_Mali_T7xx, [00000AD41946B440][00000AD419547800 50] Android_Mali_T8xx, [00000AD419460C40][00000AD41954A000 50] Android_Mali_G71, [00000AD419463D40][00000AD41954C800 50] Android_Mali_G72, [00000AD419463100][00000AD419532800 50] Android_Mali_G72_Vulkan, [00000AD41946BB40][00000AD419550000 50] Android_Mali_G76, [00000AD419464980][00000AD419555000 50] Android_Mali_G76_Vulkan, [00000AD419464B40][00000AD419557800 50] Android_Mali_G77, [00000AD41946C400][00000AD41955A000 50] Android_Mali_G77_Vulkan, [00000AD419465CC0][00000AD41955C800 50] Android_Mali_G78, [00000AD4194647C0][00000AD419542800 50] Android_Mali_G78_Vulkan, [00000AD419467E00][00000AD419560000 50] Android_Mali_G710, [00000AD41946B7C0][00000AD419565000 50] Android_Mali_G710_Vulkan, [00000AD419468500][00000AD419567800 50] Android_Xclipse_920, [00000AD41946C940][00000AD41956A000 50] Android_Xclipse_920_Vulkan, [00000AD41946CCC0][00000AD41956C800 50] Android_Vulkan_SM5, [00000AD41946BD00][00000AD419552800 50] Android_PowerVR_G6xxx, [00000AD41946D580][00000AD419570000 50] Android_PowerVR_GT7xxx, [00000AD419469140][00000AD419575000 50] Android_PowerVR_GE8xxx, [00000AD4194663C0][00000AD419577800 50] Android_PowerVR_GM9xxx, [00000AD419469680][00000AD41957A000 50] Android_PowerVR_GM9xxx_Vulkan, [00000AD41946D740][00000AD41957C800 50] Android_TegraK1, [00000AD41946C080][00000AD419562800 50] Android_Unknown_Vulkan, [00000AD41946DC80][00000AD419580000 50] Oculus_Quest, [00000AD41946CB00][00000AD419585000 50] Oculus_Quest2, [00000AD41946E540][00000AD419587800 50] HoloLens, 
+[2022.08.20-19.38.57:017][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.20-19.38.57:035][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.20-19.38.57:186][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.20-19.38.57:186][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.20-19.38.57:186][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.20-19.38.57:186][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.20-19.38.57:186][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.20-19.38.57:197][  0]LogNetVersion: MannequinMACE 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1760679091)
+[2022.08.20-19.38.57:302][  0]LogSlate: Border
+[2022.08.20-19.38.57:302][  0]LogSlate: BreadcrumbButton
+[2022.08.20-19.38.57:302][  0]LogSlate: Default
+[2022.08.20-19.38.57:302][  0]LogSlate: Icons.Save
+[2022.08.20-19.38.57:302][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.20-19.38.57:302][  0]LogSlate: ListView
+[2022.08.20-19.38.57:302][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.20-19.38.57:302][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.20-19.38.57:302][  0]LogSlate: TableView.DarkRow
+[2022.08.20-19.38.57:302][  0]LogSlate: TableView.Row
+[2022.08.20-19.38.57:302][  0]LogSlate: TreeView
+[2022.08.20-19.38.57:437][  0]SourceControl: Source control is disabled
+[2022.08.20-19.38.57:460][  0]SourceControl: Source control is disabled
+[2022.08.20-19.38.57:460][  0]SourceControl: Source control is disabled
+[2022.08.20-19.38.57:557][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.20-19.38.57:557][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.20-19.38.57:557][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.20-19.38.57:827][  0]LogPython: Using Python 3.9.7
+[2022.08.20-19.38.58:482][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9867B5C640F7C4B43BDE39AD31323D42 | Instance: 9B8BE6C64FA0ACE6679175B7627E64C7 (DESKTOP-6F2GCBA-25196).
+[2022.08.20-19.38.58:513][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.20-19.38.58:517][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.20-19.38.58:821][  0]LogUProjectInfo: Found projects:
+[2022.08.20-19.38.58:823][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.20-19.38.58:824][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.20-19.38.58:824][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.20-19.38.59:028][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.20-19.38.59:088][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.20-19.38.59:106][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.20-19.38.59:106][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.20-19.38.59:181][  0]LogCollectionManager: Loaded 0 collections in 0.000723 seconds
+[2022.08.20-19.38.59:243][  0]LogFileCache: Scanning file cache for directory 'E:/UE_5.0/projects/Shared_MANNYTD/Saved/Collections/' took 0.00s
+[2022.08.20-19.38.59:243][  0]LogFileCache: Scanning file cache for directory 'E:/UE_5.0/projects/Shared_MANNYTD/Content/Developers/deereper/Collections/' took 0.00s
+[2022.08.20-19.38.59:243][  0]LogFileCache: Scanning file cache for directory 'E:/UE_5.0/projects/Shared_MANNYTD/Content/Collections/' took 0.00s
+[2022.08.20-19.38.59:480][  0]LogEngine: Initializing Engine...
+[2022.08.20-19.38.59:492][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.20-19.38.59:493][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.20-19.38.59:705][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.20-19.38.59:705][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.20-19.38.59:714][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.20-19.38.59:739][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.20-19.38.59:739][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.20-19.38.59:758][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.20-19.38.59:758][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.20-19.38.59:758][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.20-19.38.59:759][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.20-19.38.59:759][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.20-19.38.59:759][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.20-19.38.59:759][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.20-19.38.59:759][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.20-19.38.59:759][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.20-19.38.59:759][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.20-19.38.59:759][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.20-19.38.59:759][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.20-19.38.59:759][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.20-19.38.59:759][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.20-19.38.59:759][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.20-19.38.59:759][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.20-19.38.59:763][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.20-19.38.59:804][  0]LogAudioMixer: Display: Using Audio Hardware Device BenQ EX3415R (NVIDIA High Definition Audio)
+[2022.08.20-19.38.59:804][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.20-19.38.59:806][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.20-19.38.59:806][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.20-19.38.59:806][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.20-19.38.59:806][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.20-19.38.59:807][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.20-19.38.59:807][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.20-19.38.59:807][  0]LogInit: FAudioDevice initialized.
+[2022.08.20-19.38.59:807][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.20-19.38.59:807][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.20-19.38.59:807][  0]LogInit: Texture streaming: Enabled
+[2022.08.20-19.38.59:836][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.20-19.38.59:843][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.20-19.38.59:864][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.20-19.38.59:869][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.20-19.38.59:869][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.20-19.39.00:855][  0]LogLiveCoding: Display: First instance in process group "UE_MannequinMACE_0xa6a48d98", spawning console
+[2022.08.20-19.39.00:855][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.20-19.39.00:855][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.20-19.39.00:885][  0]LogInit: Transaction tracking system initialized
+[2022.08.20-19.39.00:952][  0]BlueprintLog: New page: Editor Load
+[2022.08.20-19.39.01:123][  0]LocalizationService: Localization service is disabled
+[2022.08.20-19.39.01:167][  0]TimingProfiler: Initialize
+[2022.08.20-19.39.01:167][  0]TimingProfiler: OnSessionChanged
+[2022.08.20-19.39.01:167][  0]LoadingProfiler: Initialize
+[2022.08.20-19.39.01:167][  0]LoadingProfiler: OnSessionChanged
+[2022.08.20-19.39.01:167][  0]NetworkingProfiler: Initialize
+[2022.08.20-19.39.01:167][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.20-19.39.01:168][  0]MemoryProfiler: Initialize
+[2022.08.20-19.39.01:168][  0]MemoryProfiler: OnSessionChanged
+[2022.08.20-19.39.01:327][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.20-19.39.01:328][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.20-19.39.01:328][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.20-19.39.01:734][  0]LogFileCache: Scanning file cache for directory 'E:/UE_5.0/projects/Shared_MANNYTD/Content/' took 0.04s
+[2022.08.20-19.39.01:734][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.20-19.39.01:801][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.20-19.39.01:803][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.824
+[2022.08.20-19.39.01:803][  0]Cmd: MAP LOAD FILE="../../../projects/Shared_MANNYTD/Content/MAIN_MannyTD/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.20-19.39.01:803][  0]LightingResults: New page: Lighting Build
+[2022.08.20-19.39.01:809][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.20-19.39.01:809][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.20-19.39.01:809][  0]MapCheck: New page: Map Check
+[2022.08.20-19.39.01:809][  0]LightingResults: New page: Lighting Build
+[2022.08.20-19.39.01:814][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.20-19.39.01:817][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.20-19.39.08:035][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.08.20-19.39.08:043][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.20-19.39.08:043][  0]LogAIModule: Creating AISystem for world TestLevel
+[2022.08.20-19.39.08:045][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.20-19.39.08:045][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.20-19.39.08:086][  0]LogWorldPartition: Display: WorldPartition initialize took 41 ms
+[2022.08.20-19.39.08:088][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.20-19.39.08:109][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.08.20-19.39.08:109][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.20-19.39.08:109][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,154ms to complete.
+[2022.08.20-19.39.08:109][  0]LogFileHelpers: Loading map 'TestLevel' took 6.306
+[2022.08.20-19.39.08:120][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.141
+[2022.08.20-19.39.08:120][  0]LogShaderCompilers: Display: ================================================
+[2022.08.20-19.39.08:120][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.20-19.39.08:120][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.20-19.39.08:120][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.20-19.39.08:120][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.20-19.39.08:120][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.20-19.39.08:120][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.20-19.39.08:121][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.20-19.39.08:121][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.20-19.39.08:121][  0]LogShaderCompilers: Display: ================================================
+[2022.08.20-19.39.08:219][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.08.20-19.39.08:227][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.20-19.39.08:231][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.20-19.39.08:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.20-19.39.08:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.20-19.39.08:258][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:258][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:258][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:258][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:259][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:259][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:259][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:260][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:260][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:260][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:261][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:261][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:261][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:261][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:262][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:262][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:263][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:263][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:263][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.20-19.39.08:263][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.20-19.39.08:263][  0]LogFeaturePack: Error: Error in Feature pack E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.20-19.39.08:437][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.20-19.39.08:439][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.20-19.39.08:440][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.20-19.39.08:441][  0]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.20-19.39.08:442][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.20-19.39.08:464][  0]LogViewport: Scene viewport resized to 2742x824, mode Windowed.
+[2022.08.20-19.39.08:497][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.20-19.39.09:107][  0]LogStall: Startup...
+[2022.08.20-19.39.09:109][  0]LogStall: Startup complete.
+[2022.08.20-19.39.09:144][  0]LogLoad: (Engine Initialization) Total time: 15.16 seconds
+[2022.08.20-19.39.09:144][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.20-19.39.09:197][  0]LogAssetRegistry: Asset discovery search completed in 12.5284 seconds
+[2022.08.20-19.39.09:236][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.08.20-19.39.09:239][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.20-19.39.09:445][  1]LogNiagara: Compiling System NiagaraSystem /Game/MAIN_MannyTD/Models/Projectiles/Niagara/Tower/NS_TowerFrostAttack_Impact.NS_TowerFrostAttack_Impact took 2.683530 sec, no shader worker used.
+[2022.08.20-19.39.09:522][  2]LogNiagara: Compiling System NiagaraSystem /Game/MAIN_MannyTD/Models/Projectiles/Niagara/Tower/NS_TowerSplashAttack_Impact.NS_TowerSplashAttack_Impact took 2.008228 sec, no shader worker used.
+[2022.08.20-19.39.10:633][ 79]LogNiagara: Compiling System NiagaraSystem /Game/MAIN_MannyTD/Models/Projectiles/Niagara/Tower/NS_TowerStandardAttack_Trail.NS_TowerStandardAttack_Trail took 2.785791 sec, no shader worker used.
+[2022.08.20-19.39.10:686][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.20-19.39.10:721][ 80]LogLinker: Warning: [AssetLog] E:\UE_5.0\projects\Shared_MANNYTD\Content\SPACE_MAP_v1\MANNY_TD_SPACE_STATION_V2.umap: Failed to load '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode': Can't find file.
+[2022.08.20-19.39.10:721][ 80]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode'
+[2022.08.20-19.39.10:726][ 80]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2.MANNY_TD_SPACE_STATION_V2
+[2022.08.20-19.39.10:726][ 80]Cmd: MAP LOAD FILE="../../../projects/Shared_MANNYTD/Content/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.20-19.39.10:726][ 80]LightingResults: New page: Lighting Build
+[2022.08.20-19.39.10:726][ 80]LoadErrors: New page: Loading map: MANNY_TD_SPACE_STATION_V2.umap
+[2022.08.20-19.39.10:727][ 80]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.20-19.39.10:727][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.20-19.39.10:735][ 80]MapCheck: New page: Map Check
+[2022.08.20-19.39.10:735][ 80]LightingResults: New page: Lighting Build
+[2022.08.20-19.39.10:747][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.20-19.39.10:749][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.08.20-19.39.10:750][ 80]LogWorld: UWorld::CleanupWorld for MANNY_TD_SPACE_STATION_V2, bSessionEnded=true, bCleanupResources=true
+[2022.08.20-19.39.10:750][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.20-19.39.10:762][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.08.20-19.39.10:774][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.08.20-19.39.10:779][ 80]LogAudio: Display: Audio Device (ID: 1) registered with world 'MANNY_TD_SPACE_STATION_V2'.
+[2022.08.20-19.39.10:779][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.20-19.39.10:779][ 80]LogAIModule: Creating AISystem for world MANNY_TD_SPACE_STATION_V2
+[2022.08.20-19.39.10:780][ 80]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.20-19.39.10:780][ 80]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.20-19.39.11:105][ 80]LogWorldPartition: Display: WorldPartition initialize took 326 ms
+[2022.08.20-19.39.11:132][ 80]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.20-19.39.11:148][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.20-19.39.11:165][ 80]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.20-19.39.11:166][ 80]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,239ms to complete.
+[2022.08.20-19.39.11:166][ 80]LogFileHelpers: Loading map 'MANNY_TD_SPACE_STATION_V2' took 0.440
+[2022.08.20-19.39.16:666][518]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.08.20-19.39.16:666][518]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.08.20-19.39.42:595][474]LogMaterial: Display: Missing cached shadermap for M_Wall_Device_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A190D2B308950106DC0DE4DBCFED87F27C36073), compiling. 
+[2022.08.20-19.39.42:772][474]LogStaticMesh: Display: Building static mesh SM_Wall_Device_01...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_triangle...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_slant_02...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_Device_01.SM_Wall_Device_01
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_triangle.SM_Wall_04_triangle
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_slant_02.SM_Wall_04_slant_02
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_slant_01...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_Short...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_long_slant...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_slant_01.SM_Wall_04_slant_01
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_long...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_long_slant.SM_Wall_04_long_slant
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_Short.SM_Wall_04_Short
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_ledge_up_half...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_long.SM_Wall_04_long
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_ledge_up_corner...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_ledge_up_half.SM_Wall_04_ledge_up_half
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_ledge_up_corner.SM_Wall_04_ledge_up_corner
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_ledge_up...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_ledge_up.SM_Wall_04_ledge_up
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_ledge_half...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_ledge_half.SM_Wall_04_ledge_half
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_ledge...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_ledge.SM_Wall_04_ledge
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_02...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_02.SM_Wall_04_02
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Display: Building static mesh SM_Wall_04_01...
+[2022.08.20-19.39.42:884][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_01.SM_Wall_04_01
+[2022.08.20-19.39.42:884][474]LogMaterial: Display: Missing cached shadermap for M_Wall_03_Corner in PCD3D_SM5, Default, SM5 (DDC key hash: EA51657707AF8044C26622B30EAAD0E4A90A13E7), compiling. 
+[2022.08.20-19.39.42:976][474]LogStaticMesh: Display: Building static mesh SM_Wall_03_GateHole...
+[2022.08.20-19.39.42:976][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_03_GateHole.SM_Wall_03_GateHole
+[2022.08.20-19.39.42:976][474]LogStaticMesh: Display: Building static mesh SM_Wall_03_Corner...
+[2022.08.20-19.39.42:976][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Wall_Device_01_BaseColor.T_Wall_Device_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.43:005][474]LogStaticMesh: Built static mesh [0.06s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_03_Corner.SM_Wall_03_Corner
+[2022.08.20-19.39.43:005][474]LogMaterial: Display: Missing cached shadermap for M_Wall_02_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 05DD921C15F5D4844DC4260C199F21DAE8F4C23F), compiling. 
+[2022.08.20-19.39.43:194][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Walls_03_Corner_Emissive.T_Walls_03_Corner_Emissive (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.43:194][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Wall_Device_01_Normal.T_Wall_Device_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.43:271][474]LogMaterial: Display: Missing cached shadermap for M_Wall_01_Corner_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E4FFC6C4FCCDBC79FF2C5EBB1CB29E3B956CA0DF), compiling. 
+[2022.08.20-19.39.43:340][474]LogStaticMesh: Display: Building static mesh SM_Wall_02_GateHole...
+[2022.08.20-19.39.43:340][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_02_GateHole.SM_Wall_02_GateHole
+[2022.08.20-19.39.43:340][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Wall_Device_01_OcclusionRoughnessMetallic.T_Wall_Device_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.43:340][474]LogMaterial: Display: Missing cached shadermap for M_Wall_01_ConnectorHole in PCD3D_SM5, Default, SM5 (DDC key hash: 96022546DF0E23CCE06FABEEEDACCB9ED2FFCCAE), compiling. 
+[2022.08.20-19.39.43:397][474]LogStaticMesh: Display: Building static mesh SM_Wall_02_03_Short...
+[2022.08.20-19.39.43:397][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_02_03_Short.SM_Wall_02_03_Short
+[2022.08.20-19.39.43:461][474]LogStaticMesh: Display: Building static mesh SM_Wall_02_03...
+[2022.08.20-19.39.43:461][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Walls_03_Corner_BaseColor.T_Walls_03_Corner_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.43:461][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_02_03.SM_Wall_02_03
+[2022.08.20-19.39.43:461][474]LogMaterial: Display: Missing cached shadermap for M_Turbine_01 in PCD3D_SM5, Default, SM5 (DDC key hash: AE9BC0ADB12AEA7D1AB1F8550D3493E41C283895), compiling. 
+[2022.08.20-19.39.43:547][474]LogMaterial: Display: Missing cached shadermap for M_Tarpaulin in PCD3D_SM5, Default, SM5 (DDC key hash: 476D8CB90E52876EB437789D026EBF2892E1C38A), compiling. 
+[2022.08.20-19.39.43:610][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Walls_03_Corner_Normal.T_Walls_03_Corner_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.43:610][474]LogStaticMesh: Display: Building static mesh SM_Wall_02_02...
+[2022.08.20-19.39.43:610][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_02_02.SM_Wall_02_02
+[2022.08.20-19.39.43:620][474]LogMaterial: Display: Missing cached shadermap for M_Table_01_Big in PCD3D_SM5, Default, SM5 (DDC key hash: B7376F2395D41BDAE55A5586FB3455128D9687EC), compiling. 
+[2022.08.20-19.39.43:697][474]LogStaticMesh: Display: Building static mesh SM_Wall_02_01...
+[2022.08.20-19.39.43:697][474]LogMaterial: Display: Missing cached shadermap for M_Table_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 53BDB52627DF70489019D91D5691F9B0FF8EB2DE), compiling. 
+[2022.08.20-19.39.43:788][474]LogStaticMesh: Built static mesh [0.08s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_02_01.SM_Wall_02_01
+[2022.08.20-19.39.43:788][474]LogMaterial: Display: Missing cached shadermap for M_Glass_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5CE64D43441C9B7AECBD7196FFA7D95E25F3655F), compiling. 
+[2022.08.20-19.39.43:905][474]LogMaterial: Display: Missing cached shadermap for M_Slant_01_Window in PCD3D_SM5, Default, SM5 (DDC key hash: CB14EEA3099EC8535EC20F8DABB94C2E508AC0D9), compiling. 
+[2022.08.20-19.39.43:975][474]LogStaticMesh: Display: Building static mesh SM_Wall_01_Corner_2...
+[2022.08.20-19.39.43:975][474]LogMaterial: Display: Missing cached shadermap for M_Slant_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B45F6CCA2D1CF32A8E8E7A256102E8F89475A06), compiling. 
+[2022.08.20-19.39.44:036][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_01_Corner_2.SM_Wall_01_Corner_2
+[2022.08.20-19.39.44:036][474]LogStaticMesh: Display: Building static mesh SM_Wall_01_ConnectorHole...
+[2022.08.20-19.39.44:036][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_01_ConnectorHole.SM_Wall_01_ConnectorHole
+[2022.08.20-19.39.44:036][474]LogMaterial: Display: Missing cached shadermap for M_Slant_01_Corner in PCD3D_SM5, Default, SM5 (DDC key hash: A2169C36F4300C7E4B2019E21A6DB63911741D2A), compiling. 
+[2022.08.20-19.39.44:105][474]LogMaterial: Display: Missing cached shadermap for M_Desk_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 340E9CEE1E31329396B97DE6EA4A9F5F638C4505), compiling. 
+[2022.08.20-19.39.44:164][474]LogMaterial: Display: Missing cached shadermap for M_Pillar_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 29FB9BD62D16EEF0458F52EEF34602761B2A4DC9), compiling. 
+[2022.08.20-19.39.44:235][474]LogMaterial: Display: Missing cached shadermap for M_Pillar_03 in PCD3D_SM5, Default, SM5 (DDC key hash: 20F5B496F05A9921AB553F79147C86A732E83E4A), compiling. 
+[2022.08.20-19.39.44:303][474]LogStaticMesh: Display: Building static mesh SM_Vent_02...
+[2022.08.20-19.39.44:303][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Vent_02.SM_Vent_02
+[2022.08.20-19.39.44:303][474]LogMaterial: Display: Missing cached shadermap for M_Mobile_Device_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D4E123152CE19BD6DD30A89CF7F93AC1FBB2039), compiling. 
+[2022.08.20-19.39.44:427][474]LogStaticMesh: Display: Building static mesh SM_Turbine_01_Turbine_002...
+[2022.08.20-19.39.44:427][474]LogMaterial: Display: Missing cached shadermap for M_Forklift in PCD3D_SM5, Default, SM5 (DDC key hash: D85333A0814691558C4FA58F2884A3CE8684AA7A), compiling. 
+[2022.08.20-19.39.44:471][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Turbine_01/SM_Turbine_01_Turbine_002.SM_Turbine_01_Turbine_002
+[2022.08.20-19.39.44:506][474]LogStaticMesh: Display: Building static mesh SM_Tarpaulin...
+[2022.08.20-19.39.44:506][474]LogStaticMesh: Display: Building static mesh SM_Table_Screen_table_big...
+[2022.08.20-19.39.44:506][474]LogMaterial: Display: Missing cached shadermap for M_Floor_05 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C47286F9A897E329F6402BD79D01210154D29EC), compiling. 
+[2022.08.20-19.39.44:566][474]LogStaticMesh: Display: Building static mesh SM_Table_Screen_table...
+[2022.08.20-19.39.44:566][474]LogMaterial: Display: Missing cached shadermap for M_Floor_04 in PCD3D_SM5, Default, SM5 (DDC key hash: 6E2C6461A9A66994CF2B43C1415E61496322956B), compiling. 
+[2022.08.20-19.39.44:648][474]LogStaticMesh: Display: Building static mesh SM_Slant_01_Window...
+[2022.08.20-19.39.44:649][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Slant_01_Window.SM_Slant_01_Window
+[2022.08.20-19.39.44:649][474]LogStaticMesh: Display: Building static mesh SM_Slant_01_Detail...
+[2022.08.20-19.39.44:649][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Slant_01_Detail.SM_Slant_01_Detail
+[2022.08.20-19.39.44:649][474]LogStaticMesh: Display: Building static mesh SM_Slant_01_Corner...
+[2022.08.20-19.39.44:649][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Slant_01_Corner.SM_Slant_01_Corner
+[2022.08.20-19.39.44:649][474]LogMaterial: Display: Missing cached shadermap for M_Floor_02_corner in PCD3D_SM5, Default, SM5 (DDC key hash: BB8F899E8FBB1DC0A2C6368AFB9473A88C1A637F), compiling. 
+[2022.08.20-19.39.44:691][474]LogStaticMesh: Display: Building static mesh SM_Slant_01...
+[2022.08.20-19.39.44:691][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Slant_01.SM_Slant_01
+[2022.08.20-19.39.44:691][474]LogStaticMesh: Display: Building static mesh SM_SimpleOccluder_4x1...
+[2022.08.20-19.39.44:691][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_SimpleOccluder_4x1.SM_SimpleOccluder_4x1
+[2022.08.20-19.39.44:691][474]LogStaticMesh: Display: Building static mesh SM_Screen_01...
+[2022.08.20-19.39.44:756][474]LogStaticMesh: Display: Building static mesh SM_Pillar_2...
+[2022.08.20-19.39.44:756][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Screen_01.SM_Screen_01
+[2022.08.20-19.39.44:756][474]LogStaticMesh: Display: Building static mesh SM_Pillar_03_Lower...
+[2022.08.20-19.39.44:756][474]LogMaterial: Display: Missing cached shadermap for M_Extinguisher in PCD3D_SM5, Default, SM5 (DDC key hash: FA5A8610FAF70DB756CB1524BAFEBDBFBE44782F), compiling. 
+[2022.08.20-19.39.44:813][474]LogStaticMesh: Built static mesh [0.06s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pillar_03/SM_Pillar_03_Lower.SM_Pillar_03_Lower
+[2022.08.20-19.39.44:813][474]LogStaticMesh: Display: Building static mesh SM_Pillar_03_Upper...
+[2022.08.20-19.39.44:813][474]LogStaticMesh: Display: Building static mesh SM_Pillar...
+[2022.08.20-19.39.44:813][474]LogStaticMesh: Built static mesh [0.26s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Table_Screen_table.SM_Table_Screen_table
+[2022.08.20-19.39.44:813][474]LogMaterial: Display: Missing cached shadermap for M_Device_04 in PCD3D_SM5, Default, SM5 (DDC key hash: FC5AFF535B9B6B7F56CFDDE1454F22149C898820), compiling. 
+[2022.08.20-19.39.44:882][474]LogStaticMesh: Built static mesh [0.13s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Pillar_2.SM_Pillar_2
+[2022.08.20-19.39.44:882][474]LogStaticMesh: Display: Building static mesh SM_Mobile_Device_01...
+[2022.08.20-19.39.44:882][474]LogStaticMesh: Display: Building static mesh SM_Lamp_01...
+[2022.08.20-19.39.44:882][474]LogStaticMesh: Built static mesh [0.39s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Table_Screen_table_big.SM_Table_Screen_table_big
+[2022.08.20-19.39.44:882][474]LogMaterial: Display: Missing cached shadermap for M_Barrier_02_Device_03 in PCD3D_SM5, Default, SM5 (DDC key hash: 68357C5414F31F5734BD7D627DD71E4DCCD4D30C), compiling. 
+[2022.08.20-19.39.44:923][474]LogStaticMesh: Built static mesh [0.08s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Mobile_Device_01.SM_Mobile_Device_01
+[2022.08.20-19.39.44:923][474]LogStaticMesh: Built static mesh [0.14s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pillar_03/SM_Pillar_03_Upper.SM_Pillar_03_Upper
+[2022.08.20-19.39.44:946][474]LogStaticMesh: Built static mesh [0.08s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Lamp_01.SM_Lamp_01
+[2022.08.20-19.39.44:946][474]LogMaterial: Display: Missing cached shadermap for M_Device_02 in PCD3D_SM5, Default, SM5 (DDC key hash: C0E7054705064BA0796FA4A196036BF112F1D495), compiling. 
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Forklift...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Floor_Gate_01...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Floor_Gate_01.SM_Floor_Gate_01
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Floor_4x1_01...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Floor_05...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Floor_04...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Floor_4x1_01.SM_Floor_4x1_01
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Floor_04.SM_Floor_04
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Built static mesh [0.00s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Floor_05.SM_Floor_05
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Floor_02_corner...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Extinguisher_Main...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Extinguisher_Handle...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Floor_02_corner.SM_Floor_02_corner
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Extinguisher/SM_Extinguisher_Handle.SM_Extinguisher_Handle
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Extinguisher_u_l...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Extinguisher_u_r...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Extinguisher/SM_Extinguisher_u_r.SM_Extinguisher_u_r
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Extinguisher/SM_Extinguisher_u_l.SM_Extinguisher_u_l
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Device_04...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Device_03...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Extinguisher/SM_Extinguisher_Main.SM_Extinguisher_Main
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Device_02...
+[2022.08.20-19.39.45:045][474]LogStaticMesh: Display: Building static mesh SM_Details_Vent_03...
+[2022.08.20-19.39.45:045][474]LogMaterial: Display: Missing cached shadermap for M_Chair_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A18F7458F57438F8605E035E4D36A86348030BB), compiling. 
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Vent_03.SM_Details_Vent_03
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Display: Building static mesh SM_Details_Lamp_Wide...
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Lamp_Wide.SM_Details_Lamp_Wide
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Display: Building static mesh SM_Details_Hatch_01...
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Hatch_01.SM_Details_Hatch_01
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Device_03.SM_Device_03
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Display: Building static mesh SM_Desk_01...
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Built static mesh [0.13s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Forklift.SM_Forklift
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Display: Building static mesh SM_Container_01_Container...
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Display: Building static mesh SM_Container_01_Container_Cover...
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Built static mesh [0.05s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Containers/SM_Container_01_Container.SM_Container_01_Container
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Display: Building static mesh SM_Chair_01...
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Built static mesh [0.06s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Desk_01.SM_Desk_01
+[2022.08.20-19.39.45:141][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Containers/SM_Container_01_Container_Cover.SM_Container_01_Container_Cover
+[2022.08.20-19.39.45:163][474]LogStaticMesh: Display: Building static mesh SM_Ceiling_01_Corner...
+[2022.08.20-19.39.45:163][474]LogStaticMesh: Built static mesh [0.67s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Tarpaulin.SM_Tarpaulin
+[2022.08.20-19.39.45:163][474]LogMaterial: Display: Missing cached shadermap for M_Ceiling_01 in PCD3D_SM5, Default, SM5 (DDC key hash: E8AD5B56C60190A94CFD69B73E75028939C805FA), compiling. 
+[2022.08.20-19.39.45:265][474]LogStaticMesh: Built static mesh [0.06s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Ceiling_01_Corner.SM_Ceiling_01_Corner
+[2022.08.20-19.39.45:265][474]LogStaticMesh: Display: Building static mesh SM_Ceiling_01...
+[2022.08.20-19.39.45:265][474]LogMaterial: Display: Missing cached shadermap for M_CeilingPipes_01_Corner_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 82C204EE16BDC0D094BE011F8C6CC7F963AB382F), compiling. 
+[2022.08.20-19.39.45:345][474]LogStaticMesh: Built static mesh [0.07s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Ceiling_01.SM_Ceiling_01
+[2022.08.20-19.39.45:345][474]LogStaticMesh: Display: Building static mesh SM_CeilingPipes_01_Corner_2...
+[2022.08.20-19.39.45:345][474]LogStaticMesh: Built static mesh [0.53s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Pillar.SM_Pillar
+[2022.08.20-19.39.45:345][474]LogStaticMesh: Built static mesh [0.19s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Chair_01.SM_Chair_01
+[2022.08.20-19.39.45:371][474]LogMaterial: Display: Missing cached shadermap for M_CeilingPipes_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A13A2A7C63A049B8D7A6E5FE729FB02697AA027), compiling. 
+[2022.08.20-19.39.45:550][474]LogStaticMesh: Built static mesh [0.37s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Device_02.SM_Device_02
+[2022.08.20-19.39.45:550][474]LogStaticMesh: Built static mesh [0.09s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_CeilingPipes_01_Corner_2.SM_CeilingPipes_01_Corner_2
+[2022.08.20-19.39.45:550][474]LogStaticMesh: Display: Building static mesh SM_CeilingPipes_01...
+[2022.08.20-19.39.45:550][474]LogStaticMesh: Built static mesh [0.05s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_CeilingPipes_01.SM_CeilingPipes_01
+[2022.08.20-19.39.45:550][474]LogStaticMesh: Display: Building static mesh SM_Barrier_02...
+[2022.08.20-19.39.45:653][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_02.SM_Barrier_02
+[2022.08.20-19.39.45:653][474]LogStaticMesh: Display: Building static mesh SM_Barrier_01_Stairs...
+[2022.08.20-19.39.45:653][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Stairs.SM_Barrier_01_Stairs
+[2022.08.20-19.39.45:653][474]LogStaticMesh: Display: Building static mesh SM_Barrier_01_Corner_L_Mirror...
+[2022.08.20-19.39.45:653][474]LogMaterial: Display: Missing cached shadermap for M_Small_Pipes in PCD3D_SM5, Default, SM5 (DDC key hash: 0B0C384575CA03AC8189BC7FD4A7C73694DFC9C4), compiling. 
+[2022.08.20-19.39.45:756][474]LogStaticMesh: Display: Building static mesh SM_Barrier_01_Corner_L...
+[2022.08.20-19.39.45:757][474]LogStaticMesh: Built static mesh [0.05s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_L_Mirror.SM_Barrier_01_Corner_L_Mirror
+[2022.08.20-19.39.45:757][474]LogStaticMesh: Built static mesh [0.05s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_L.SM_Barrier_01_Corner_L
+[2022.08.20-19.39.45:757][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe_Turn3...
+[2022.08.20-19.39.45:759][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe_Turn3.SM_Small_Pipe_Turn3
+[2022.08.20-19.39.45:804][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe_Turn2...
+[2022.08.20-19.39.45:804][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe_Turn1...
+[2022.08.20-19.39.45:804][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe_Turn2.SM_Small_Pipe_Turn2
+[2022.08.20-19.39.45:804][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe_Short...
+[2022.08.20-19.39.45:804][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe_Turn1.SM_Small_Pipe_Turn1
+[2022.08.20-19.39.45:804][474]LogMaterial: Display: Missing cached shadermap for M_Big_Pipes_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 14461C3A1938CAB014500E599DDAA76CA09FBE45), compiling. 
+[2022.08.20-19.39.45:873][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Walls_03_Corner_OcclusionRoughnessMetallic.T_Walls_03_Corner_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.45:873][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe_Short.SM_Small_Pipe_Short
+[2022.08.20-19.39.45:873][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe_Long...
+[2022.08.20-19.39.45:873][474]LogMaterial: Display: Missing cached shadermap for M_Big_Pipes_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 40E5A96DB3FE9B6B96B926C0B45D17470E4FB249), compiling. 
+[2022.08.20-19.39.45:960][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe_Intersection2...
+[2022.08.20-19.39.45:961][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe_Long.SM_Small_Pipe_Long
+[2022.08.20-19.39.45:961][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe_Intersection2.SM_Small_Pipe_Intersection2
+[2022.08.20-19.39.45:961][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe_End2...
+[2022.08.20-19.39.45:961][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe_Intersection1...
+[2022.08.20-19.39.45:961][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Walls_02_02_BaseColor.T_Walls_02_02_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.45:961][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe_End2.SM_Small_Pipe_End2
+[2022.08.20-19.39.45:961][474]LogStaticMesh: Built static mesh [0.03s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe_Intersection1.SM_Small_Pipe_Intersection1
+[2022.08.20-19.39.46:026][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe_End1...
+[2022.08.20-19.39.46:027][474]LogStaticMesh: Display: Building static mesh SM_Small_Pipe...
+[2022.08.20-19.39.46:027][474]LogMaterial: Display: Missing cached shadermap for M_Platform_02_Hole in PCD3D_SM5, Default, SM5 (DDC key hash: 806B901C994622BAEEC35A4B93B91204E5B1928A), compiling. 
+[2022.08.20-19.39.46:113][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe_End1.SM_Small_Pipe_End1
+[2022.08.20-19.39.46:113][474]LogStaticMesh: Built static mesh [1.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Device_04.SM_Device_04
+[2022.08.20-19.39.46:113][474]LogStaticMesh: Built static mesh [0.03s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Small_Pipe.SM_Small_Pipe
+[2022.08.20-19.39.46:113][474]LogStaticMesh: Display: Building static mesh SM_Big_Pipes_slant...
+[2022.08.20-19.39.46:113][474]LogStaticMesh: Display: Building static mesh SM_Big_Pipes_1m_02...
+[2022.08.20-19.39.46:113][474]LogStaticMesh: Built static mesh [0.03s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Big_Pipes_slant.SM_Big_Pipes_slant
+[2022.08.20-19.39.46:113][474]LogMaterial: Display: Missing cached shadermap for M_Platform_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 2305941CE2C6C0A52FEA15D9094A0DB1D613E468), compiling. 
+[2022.08.20-19.39.46:161][474]LogStaticMesh: Display: Building static mesh SM_Big_Pipes_intersection...
+[2022.08.20-19.39.46:162][474]LogStaticMesh: Built static mesh [0.03s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Big_Pipes_intersection.SM_Big_Pipes_intersection
+[2022.08.20-19.39.46:162][474]LogStaticMesh: Display: Building static mesh SM_Big_Pipes_corner...
+[2022.08.20-19.39.46:164][474]LogStaticMesh: Display: Building static mesh SM_Big_Pipes_connector...
+[2022.08.20-19.39.46:191][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Big_Pipes_corner.SM_Big_Pipes_corner
+[2022.08.20-19.39.46:192][474]LogStaticMesh: Display: Building static mesh SM_Big_Pipes_2m...
+[2022.08.20-19.39.46:192][474]LogMaterial: Display: Missing cached shadermap for M_Platform_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 73CE6FD827FA5A182BB64C24A66F69FB846AD333), compiling. 
+[2022.08.20-19.39.46:273][474]LogStaticMesh: Built static mesh [0.13s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Big_Pipes_1m_02.SM_Big_Pipes_1m_02
+[2022.08.20-19.39.46:273][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Big_Pipes_2m.SM_Big_Pipes_2m
+[2022.08.20-19.39.46:273][474]LogStaticMesh: Display: Building static mesh SM_Big_Pipes_1m_01...
+[2022.08.20-19.39.46:273][474]LogStaticMesh: Built static mesh [0.07s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Big_Pipes_connector.SM_Big_Pipes_connector
+[2022.08.20-19.39.46:273][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Big_Pipes_1m_01.SM_Big_Pipes_1m_01
+[2022.08.20-19.39.46:273][474]LogStaticMesh: Display: Building static mesh SM_Platform_02_Hole...
+[2022.08.20-19.39.46:273][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Walls_02_02_Normal.T_Walls_02_02_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.46:273][474]LogStaticMesh: Display: Building static mesh SM_Platform_02...
+[2022.08.20-19.39.46:273][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Platforms/SM_Platform_02_Hole.SM_Platform_02_Hole
+[2022.08.20-19.39.46:273][474]LogStaticMesh: Built static mesh [0.01s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Platforms/SM_Platform_02.SM_Platform_02
+[2022.08.20-19.39.46:273][474]LogMaterial: Display: Missing cached shadermap for M_LeveledPlatform in PCD3D_SM5, Default, SM5 (DDC key hash: 8E6BF2AA6FFCFEB6B257BAC6810DF4E605785870), compiling. 
+[2022.08.20-19.39.46:353][474]LogStaticMesh: Display: Building static mesh SM_Platform_01...
+[2022.08.20-19.39.46:353][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Walls_02_02_OcclusionRoughnessMetallic.T_Walls_02_02_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.46:353][474]LogLinker: Warning: VerifyImport: Failed to find script package for import object 'Package /Script/GPULightmass'
+[2022.08.20-19.39.46:444][474]LogLinker: Warning: [AssetLog] E:\UE_5.0\projects\Shared_MANNYTD\Content\Sci-Fi_Modular_Interior_Space_Station\ExampleLevels\Demo_Level.umap: Failed to load '/Game/MAIN_MannyTD/Blueprints/Player_BP': Can't find file.
+[2022.08.20-19.39.46:445][474]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MAIN_MannyTD/Blueprints/Player_BP'
+[2022.08.20-19.39.46:793][474]LogStaticMesh: Built static mesh [0.21s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Platforms/SM_Platform_01.SM_Platform_01
+[2022.08.20-19.39.46:793][474]LogStaticMesh: Display: Building static mesh SM_Leveled_Platform_2x4x4...
+[2022.08.20-19.39.46:793][474]LogStaticMesh: Display: Building static mesh SM_Leveled_Platform_2x4x2...
+[2022.08.20-19.39.46:793][474]LogStaticMesh: Built static mesh [0.02s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Platforms/SM_Leveled_Platform_2x4x2.SM_Leveled_Platform_2x4x2
+[2022.08.20-19.39.46:793][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Platforms/SM_Leveled_Platform_2x4x4.SM_Leveled_Platform_2x4x4
+[2022.08.20-19.39.46:793][474]LogStaticMesh: Display: Building static mesh SM_Leveled_Platform_2x2x4...
+[2022.08.20-19.39.46:793][474]LogStaticMesh: Display: Building static mesh SM_Leveled_Platform_2x2x2...
+[2022.08.20-19.39.46:793][474]LogStaticMesh: Built static mesh [0.03s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Platforms/SM_Leveled_Platform_2x2x2.SM_Leveled_Platform_2x2x2
+[2022.08.20-19.39.46:793][474]LogStaticMesh: Built static mesh [0.04s] /Game/Sci-Fi_Modular_Interior_Space_Station/Meshes/Platforms/SM_Leveled_Platform_2x2x4.SM_Leveled_Platform_2x2x4
+[2022.08.20-19.39.46:793][474]LogMaterial: Display: Missing cached shadermap for M_Decal_Caution in PCD3D_SM5, Default, SM5 (DDC key hash: 9B539296BC123100D9B9248D3A052CC0E056A27C), compiling. 
+[2022.08.20-19.39.46:856][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Wall_01_Corner_2_Emissive.T_Wall_01_Corner_2_Emissive (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.46:856][474]LogMaterial: Display: Missing cached shadermap for M_Decal_Hatch_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: E35682169432EF4A53E31A5202366614F93E58B8), compiling. 
+[2022.08.20-19.39.46:909][474]LogMaterial: Display: Missing cached shadermap for M_Decal_Sector1 in PCD3D_SM5, Default, SM5 (DDC key hash: 504635845B9C2F95EB30A85FDE80EFF4300C2ECD), compiling. 
+[2022.08.20-19.39.46:959][474]LogMaterial: Display: Missing cached shadermap for M_Decal_Stripe1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0BE72B3D9918D2B336C557FBA5DBA95613504229), compiling. 
+[2022.08.20-19.39.47:016][474]LogMaterial: Display: Missing cached shadermap for M_Wall_04_concrete in PCD3D_SM5, Default, SM5 (DDC key hash: 62A71B591095BB6513D97BB77519E72138E24FAC), compiling. 
+[2022.08.20-19.39.47:775][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Wall_01_Corner_2_Normal.T_Wall_01_Corner_2_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.47:775][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Wall_01_Hole_BaseColor.T_Wall_01_Hole_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.47:775][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Wall_01_Hole_Emissive.T_Wall_01_Hole_Emissive (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.47:775][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Wall_01_Corner_2_OcclusionRoughnessMetallic.T_Wall_01_Corner_2_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.47:870][474]LogMaterial: Display: Missing cached shadermap for M_Pillar_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F944D36CA802301F54CBD75F31A6B31AD3527B0), compiling. 
+[2022.08.20-19.39.48:296][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Wall_01_Hole_Normal.T_Wall_01_Hole_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.48:370][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Walls/T_Wall_01_Hole_OcclusionRoughnessMetallic.T_Wall_01_Hole_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.49:507][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Table_01_big_Emissive.T_Table_01_big_Emissive (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.49:620][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Boxes/T_Tarpaulin_01_BaseColor.T_Tarpaulin_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.49:761][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Table_01_big_BaseColor.T_Table_01_big_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.49:934][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Boxes/T_Tarpaulin_01_OcclusionRoughnessMetallic.T_Tarpaulin_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.50:158][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Boxes/T_Tarpaulin_01_Normal.T_Tarpaulin_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.50:258][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Table_01_big_Normal.T_Table_01_big_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.50:543][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Table_01_big_OcclusionRoughnessMetallic.T_Table_01_big_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.53:422][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Table_01_Emissive.T_Table_01_Emissive (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.53:554][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_Glass_BaseColor.T_Slant_Glass_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.53:653][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_Glass_OcclusionRoughnessMetallic.T_Slant_Glass_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.53:888][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Table_01_Normal.T_Table_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.53:965][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Table_01_BaseColor.T_Table_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.54:119][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Table_01_OcclusionRoughnessMetallic.T_Table_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.54:211][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_01_Window_BaseColor.T_Slant_01_Window_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.54:797][474]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.20-19.39.57:264][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_01_Window_Normal.T_Slant_01_Window_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.57:390][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_01_Normal.T_Slant_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.57:434][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_01_Window_OcclusionRoughnessMetallic.T_Slant_01_Window_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.57:516][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_01_OcclusionRoughnessMetallic.T_Slant_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.57:577][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_01_Corner_Normal.T_Slant_01_Corner_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.57:639][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_01_BaseColor.T_Slant_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.39.57:915][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_01_Corner_BaseColor.T_Slant_01_Corner_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.00:663][474]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.319 seconds, threshold is 0.300 s), will parallelize next time.
+[2022.08.20-19.40.01:990][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Desk_01_BaseColor.T_Desk_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.02:442][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Slant_01_Corner_OcclusionRoughnessMetallic.T_Slant_01_Corner_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.02:442][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Pallet_01) ...
+[2022.08.20-19.40.02:524][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Pillar_02/T_Pillar_Corridor_BaseColor.T_Pillar_Corridor_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.02:545][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Desk_01_OcclusionRoughnessMetallic.T_Desk_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.03:442][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Tables/T_Desk_01_Normal.T_Desk_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.03:442][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Pillar_02/T_Pillar_Corridor_Normal.T_Pillar_Corridor_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.03:510][474]LogD3D12RHI: Warning: Force flushing GPU because pending upload allocations reached its limit
+[2022.08.20-19.40.03:607][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Pillar_02/T_Pillar_Corridor_OcclusionRoughnessMetallic.T_Pillar_Corridor_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.05:464][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Mobile_Device_01_Emissive.T_Mobile_Device_01_Emissive (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.05:464][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Connector_01) ...
+[2022.08.20-19.40.05:703][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Pillar_03/T_Pillar_03_BaseColor.T_Pillar_03_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.05:905][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Mobile_Device_01_BaseColor.T_Mobile_Device_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.06:105][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Pillar_03/T_Pillar_03_Normal.T_Pillar_03_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.06:105][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Pillar_03/T_Pillar_03_OcclusionRoughnessMetallic.T_Pillar_03_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.06:321][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Mobile_Device_01_Normal.T_Mobile_Device_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.06:321][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Mobile_Device_01_OcclusionRoughnessMetallic.T_Mobile_Device_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.06:827][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Device_05) ...
+[2022.08.20-19.40.07:411][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Stairs_01) ...
+[2022.08.20-19.40.08:135][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_04_long) ...
+[2022.08.20-19.40.08:629][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_02_02) ...
+[2022.08.20-19.40.09:019][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Floors/T_Floors_01_05_OcclusionRoughnessMetallic.T_Floors_01_05_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.09:233][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Floors/T_Floors_01_04_BaseColor.T_Floors_01_04_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.09:233][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Forklift/T_Forklift_BaseColor.T_Forklift_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.09:233][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Floors/T_Floors_01_05_BaseColor.T_Floors_01_05_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.09:233][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Forklift/T_Forklift_Normal.T_Forklift_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.09:434][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Forklift/T_Forklift_OcclusionRoughnessMetallic.T_Forklift_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.09:434][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Floors/T_Floors_01_05_Normal.T_Floors_01_05_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.11:254][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Tarpaulin) ...
+[2022.08.20-19.40.11:287][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Table_Screen_table_big) ...
+[2022.08.20-19.40.11:589][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pillar_03/SM_Pillar_03_Upper) ...
+[2022.08.20-19.40.12:063][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Device_04) ...
+[2022.08.20-19.40.12:263][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Floors/T_Floors_01_04_Normal.T_Floors_01_04_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.12:263][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Floors/T_Floors_01_02_corner_BaseColor.T_Floors_01_02_corner_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.12:264][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Floors/T_Floors_01_02_corner_Normal.T_Floors_01_02_corner_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.12:417][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Floors/T_Floors_01_04_OcclusionRoughnessMetallic.T_Floors_01_04_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.12:417][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Box2) ...
+[2022.08.20-19.40.12:524][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Pipes/SM_Big_Pipes_intersection) ...
+[2022.08.20-19.40.14:287][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Floors/T_Floors_01_02_corner_OcclusionRoughnessMetallic.T_Floors_01_02_corner_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.14:603][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Extinguisher/T_Extinguisher_BaseColor.T_Extinguisher_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.14:706][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Extinguisher/T_Extinguisher_Normal.T_Extinguisher_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.14:813][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Extinguisher/T_Extinguisher_OcclusionRoughnessMetallic.T_Extinguisher_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.16:895][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_03_01_Emissive.T_Device_03_01_Emissive (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.16:996][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_04_Normal.T_Device_04_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.17:082][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_04_BaseColor.T_Device_04_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.17:281][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_04_OcclusionRoughnessMetallic.T_Device_04_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.17:489][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_03_01_Normal.T_Device_03_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.17:500][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_03_01_BaseColor.T_Device_03_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.17:763][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_03_01_OcclusionRoughnessMetallic.T_Device_03_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.20:891][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Chairs/T_Chair_01_BaseColor.T_Chair_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.21:058][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Chairs/T_Chair_01_OcclusionRoughnessMetallic.T_Chair_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.22:056][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_02_01_Normal.T_Device_02_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.22:056][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_02_01_BaseColor.T_Device_02_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.22:056][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/RandomDevices/T_Device_02_01_OcclusionRoughnessMetallic.T_Device_02_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.22:056][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Chairs/T_Chair_01_Normal.T_Chair_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.22:590][474]LogD3D12RHI: Warning: Force flushing GPU because pending upload allocations reached its limit
+[2022.08.20-19.40.24:996][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Ceiling_01_Emissive.T_Ceiling_01_Emissive (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.25:383][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Ceiling_01_BaseColor.T_Ceiling_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.25:590][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Ceiling_01_Normal.T_Ceiling_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.25:590][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_Ceiling_01_OcclusionRoughnessMetallic.T_Ceiling_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.25:590][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_CeilingPipes_01_Corner_2_BaseColor.T_CeilingPipes_01_Corner_2_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.26:002][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_CeilingPipes_01_Corner_2_OcclusionRoughnessMetallic.T_CeilingPipes_01_Corner_2_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.26:002][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_CeilingPipes_01_Corner_2_Normal.T_CeilingPipes_01_Corner_2_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.26:938][474]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.471591 seconds
+[2022.08.20-19.40.26:990][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/Barriers/BP_Barrier_01_Corner_Short
+[2022.08.20-19.40.26:991][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Barrier_01_Corner_ShortFE934DC64965FBA34254E6A61A86F6D3.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/Barriers/BP_Barrier_01_Corner_Short.uasset'
+[2022.08.20-19.40.27:073][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Pallet_01
+[2022.08.20-19.40.27:074][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Pallet_01743CDAD34D7482D0073D49A5F52977F1.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Pallet_01.uasset'
+[2022.08.20-19.40.27:156][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Pallet_01
+[2022.08.20-19.40.27:157][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Pallet_016620D4FA4300F764D87CB2A265E10022.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Pallet_01.uasset'
+[2022.08.20-19.40.27:198][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Pallet_01
+[2022.08.20-19.40.27:198][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Pallet_015D597A7D4259CB865DD0A4BC98DB9B0C.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Pallet_01.uasset'
+[2022.08.20-19.40.27:259][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Details_Lamp_Small
+[2022.08.20-19.40.27:260][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Details_Lamp_SmallC34A676946C6BD5A71203AA5D20B6D8A.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Details_Lamp_Small.uasset'
+[2022.08.20-19.40.27:311][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Connector_01
+[2022.08.20-19.40.27:311][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Connector_01F3932B5E4DDF7A55B457B0B18B7F909A.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Connector_01.uasset'
+[2022.08.20-19.40.27:372][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Connector_01
+[2022.08.20-19.40.27:373][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Connector_019C34283F4E97EC80E14B37A6BD327A47.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Connector_01.uasset'
+[2022.08.20-19.40.27:392][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Connector_01
+[2022.08.20-19.40.27:393][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Connector_014E81214446AFB1E67958FE85D332214F.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Connector_01.uasset'
+[2022.08.20-19.40.27:429][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Details_Wall_Case
+[2022.08.20-19.40.27:429][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Details_Wall_Case06C56B5E45C4D414D394B2A0BD2ADCC5.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Details_Wall_Case.uasset'
+[2022.08.20-19.40.27:464][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Wall_Case
+[2022.08.20-19.40.27:465][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Details_Wall_Case5EF58308455EEDF610F93E9CBCA1A2EB.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Wall_Case.uasset'
+[2022.08.20-19.40.27:485][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Vent_03
+[2022.08.20-19.40.27:486][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Details_Vent_0332CF0E0E482214A259404E972D91ED3E.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Vent_03.uasset'
+[2022.08.20-19.40.27:506][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Lamp_Small
+[2022.08.20-19.40.27:506][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Details_Lamp_Small74F68F7140DE5A11FE2ECF849E02324D.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Lamp_Small.uasset'
+[2022.08.20-19.40.27:526][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Lamp_Wide
+[2022.08.20-19.40.27:527][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Details_Lamp_Wide9A4D0EF1493E6119AF3597A952209847.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Lamp_Wide.uasset'
+[2022.08.20-19.40.27:553][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Hatch_01
+[2022.08.20-19.40.27:554][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Details_Hatch_01A90CF63B4C145E1B74F56AB00427E000.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Details_Hatch_01.uasset'
+[2022.08.20-19.40.27:574][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Details_01
+[2022.08.20-19.40.27:574][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Details_01CDF56DB04C399E3BF0561FA467D61A7E.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Details_01.uasset'
+[2022.08.20-19.40.27:616][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Wall_01_Corner
+[2022.08.20-19.40.27:617][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Wall_01_Corner26BC860240A58A8626BBEFB67296A8C8.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Wall_01_Corner.uasset'
+[2022.08.20-19.40.27:642][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_01_Corner
+[2022.08.20-19.40.27:642][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Wall_01_Corner9C99AB054896CB661D7BAFB6A2424255.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_01_Corner.uasset'
+[2022.08.20-19.40.27:659][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Wall_01_Corner
+[2022.08.20-19.40.27:660][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Wall_01_Corner986ACA9048AAA28BEBA8239A03C4F905.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Wall_01_Corner.uasset'
+[2022.08.20-19.40.27:678][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Container_01_Inst2
+[2022.08.20-19.40.27:679][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/MI_Container_01_Inst22A87B5C2431AF319E03BDFA3B248D0D4.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Container_01_Inst2.uasset'
+[2022.08.20-19.40.27:695][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Container_01_Inst1
+[2022.08.20-19.40.27:696][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/MI_Container_01_Inst145E432144AE347199343AB8D859E9A2F.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Container_01_Inst1.uasset'
+[2022.08.20-19.40.27:719][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Containers/SM_Container_01_Container_Cover
+[2022.08.20-19.40.27:719][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Container_01_Container_Cover5BF83F54429EDF117113768A08219C97.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Containers/SM_Container_01_Container_Cover.uasset'
+[2022.08.20-19.40.27:741][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Containers/SM_Container_01_Container
+[2022.08.20-19.40.27:741][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Container_01_Container2A7E73DB4E8EF61A8A6EE0A9737326E2.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Containers/SM_Container_01_Container.uasset'
+[2022.08.20-19.40.27:759][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Container_01
+[2022.08.20-19.40.27:760][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Container_019E02EBA44AB8C37FB268B89613CB58A8.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Container_01.uasset'
+[2022.08.20-19.40.27:798][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Device_05
+[2022.08.20-19.40.27:798][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Device_05AE2C212A4ECC0A63EE28A5887BA9811B.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Device_05.uasset'
+[2022.08.20-19.40.27:842][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Device_05
+[2022.08.20-19.40.27:843][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Device_05BD9C2A934E44904FB15470AFA62951C9.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Device_05.uasset'
+[2022.08.20-19.40.27:861][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Device_05
+[2022.08.20-19.40.27:861][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Device_054C92F2FE4FCAF7DCF6CFB58293A14588.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Device_05.uasset'
+[2022.08.20-19.40.28:022][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/Barriers/BP_Barrier_01_Corner_Long
+[2022.08.20-19.40.28:023][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Barrier_01_Corner_LongE6C23E434B12BE6A3B1FF6BF5D077B61.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/Barriers/BP_Barrier_01_Corner_Long.uasset'
+[2022.08.20-19.40.28:070][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Ceiling_01_X
+[2022.08.20-19.40.28:071][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Ceiling_01_X2E74A47946507872B79366930DC61834.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Ceiling_01_X.uasset'
+[2022.08.20-19.40.28:116][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Ceiling_01_X
+[2022.08.20-19.40.28:117][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Ceiling_01_X3B1FA7A94EA9EF081A74479E5F42AF34.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Ceiling_01_X.uasset'
+[2022.08.20-19.40.28:137][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Ceiling_01_X
+[2022.08.20-19.40.28:137][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Ceiling_01_X572092814FE220FFE4E125B372F4898B.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Ceiling_01_X.uasset'
+[2022.08.20-19.40.28:145][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2/7/NA/RG2D7K59EDPVZFELA7Z4L4
+[2022.08.20-19.40.28:145][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/RG2D7K59EDPVZFELA7Z4L4972BEB5343E61C9007E7C88FB8D14FD3.tmp' to '../../../projects/Shared_MANNYTD/Content/__ExternalActors__/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2/7/NA/RG2D7K59EDPVZFELA7Z4L4.uasset'
+[2022.08.20-19.40.28:186][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Barrel
+[2022.08.20-19.40.28:187][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Barrel777C9B904F518CED5A28AC952AA25AFD.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Barrel.uasset'
+[2022.08.20-19.40.28:190][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2/3/9X/4I3V5GQT3KCJI5Z8E7YY8R
+[2022.08.20-19.40.28:191][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/4I3V5GQT3KCJI5Z8E7YY8R4DF0BE03465EA7CF496C31925F6D0F45.tmp' to '../../../projects/Shared_MANNYTD/Content/__ExternalActors__/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2/3/9X/4I3V5GQT3KCJI5Z8E7YY8R.uasset'
+[2022.08.20-19.40.28:195][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2/9/9S/HKPFN6M1STBLVF7IMVNWJI
+[2022.08.20-19.40.28:195][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/HKPFN6M1STBLVF7IMVNWJI6FE4696B4861A86B9BED9989AE5E928F.tmp' to '../../../projects/Shared_MANNYTD/Content/__ExternalActors__/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2/9/9S/HKPFN6M1STBLVF7IMVNWJI.uasset'
+[2022.08.20-19.40.28:199][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2/E/WD/3TTUBVJM74ZDWOQ01BX6A4
+[2022.08.20-19.40.28:200][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/3TTUBVJM74ZDWOQ01BX6A43D583CC943CF34E0DFD6A383F036BEAE.tmp' to '../../../projects/Shared_MANNYTD/Content/__ExternalActors__/SPACE_MAP_v1/MANNY_TD_SPACE_STATION_V2/E/WD/3TTUBVJM74ZDWOQ01BX6A4.uasset'
+[2022.08.20-19.40.28:224][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Barrel_01_Inst2
+[2022.08.20-19.40.28:224][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/MI_Barrel_01_Inst2AED17B47499853526DFC308AA95586A9.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Barrel_01_Inst2.uasset'
+[2022.08.20-19.40.28:256][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Barrel
+[2022.08.20-19.40.28:257][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Barrel538D176144BE13B3E75B2C9A5A8F9B0A.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Barrel.uasset'
+[2022.08.20-19.40.28:276][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Barrel_01_Inst3
+[2022.08.20-19.40.28:276][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/MI_Barrel_01_Inst312E1AE4C4C7699C2E0BA6BBD5ABB3843.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Barrel_01_Inst3.uasset'
+[2022.08.20-19.40.28:295][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Barrel_01_Inst1
+[2022.08.20-19.40.28:295][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/MI_Barrel_01_Inst1978662FA48C5532654F623B1D91C58DC.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Barrel_01_Inst1.uasset'
+[2022.08.20-19.40.28:311][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Barrel_01
+[2022.08.20-19.40.28:312][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Barrel_01D86E2FB343A02B04B85323A1453C6003.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Barrel_01.uasset'
+[2022.08.20-19.40.28:346][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/Barriers/BP_Barrier_01_Long
+[2022.08.20-19.40.28:347][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Barrier_01_LongAC79E5384692409DEE9BA2BC8AEB2440.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/Barriers/BP_Barrier_01_Long.uasset'
+[2022.08.20-19.40.28:364][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Barrier_01_Inst
+[2022.08.20-19.40.28:364][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/MI_Barrier_01_InstD1C1209F4CBACE8F4EF01499BEA45C51.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/Material_instances/MI_Barrier_01_Inst.uasset'
+[2022.08.20-19.40.28:386][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Stairs
+[2022.08.20-19.40.28:387][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Barrier_01_Stairs9F302A2B4C4799B90186D5B37011D47B.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Stairs.uasset'
+[2022.08.20-19.40.28:417][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Long
+[2022.08.20-19.40.28:417][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Barrier_01_Long6A998BE14514E5143FF1FF874B496486.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Long.uasset'
+[2022.08.20-19.40.28:446][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_L_Mirror
+[2022.08.20-19.40.28:446][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Barrier_01_Corner_L_MirrorAC6F88C04522E8B4DFDCAFBB890D7648.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_L_Mirror.uasset'
+[2022.08.20-19.40.28:475][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_L
+[2022.08.20-19.40.28:476][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Barrier_01_Corner_LDECD77EC488A1F044851AE9516B391B7.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_L.uasset'
+[2022.08.20-19.40.28:511][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_Long
+[2022.08.20-19.40.28:511][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Barrier_01_Corner_Long5C2766FF451043C8B82028A8894E6C04.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_Long.uasset'
+[2022.08.20-19.40.28:543][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_Short
+[2022.08.20-19.40.28:544][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Barrier_01_Corner_ShortB3D40B7148218AF011C3B9ADF90AC4C4.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Corner_Short.uasset'
+[2022.08.20-19.40.28:586][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_CeilingPipes_01_Normal.T_CeilingPipes_01_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.28:586][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Short
+[2022.08.20-19.40.28:587][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Barrier_01_ShortD55779D34661141E5B41C3BB8E52A956.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/Barriers/SM_Barrier_01_Short.uasset'
+[2022.08.20-19.40.28:622][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Barrier_2
+[2022.08.20-19.40.28:623][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Barrier_27D13992F44405F3C7303BE8C50F3C092.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Barrier_2.uasset'
+[2022.08.20-19.40.28:649][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Barrier_01
+[2022.08.20-19.40.28:650][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Barrier_01E08DE5E04BB82D2135758998326C1D49.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Barrier_01.uasset'
+[2022.08.20-19.40.28:664][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_CeilingPipes_01_BaseColor.T_CeilingPipes_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.28:690][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Wall_01
+[2022.08.20-19.40.28:691][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/BP_Wall_0122B4792A47E96196E80544816BA6257E.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Blueprints/BP_Wall_01.uasset'
+[2022.08.20-19.40.28:732][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_01
+[2022.08.20-19.40.28:733][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/SM_Wall_019F6296BE4731CD8ED43ED4BD3B6FABC1.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Meshes/SM_Wall_01.uasset'
+[2022.08.20-19.40.28:749][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Ceilings/T_CeilingPipes_01_OcclusionRoughnessMetallic.T_CeilingPipes_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.08.20-19.40.28:759][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Wall_01
+[2022.08.20-19.40.28:760][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Wall_011054856E48C5D67F270921BBD2AB6A26.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Wall_01.uasset'
+[2022.08.20-19.40.28:788][474]LogSavePackage: Moving output files for package: /Game/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Wall_2
+[2022.08.20-19.40.28:789][474]LogSavePackage: Moving '../../../projects/Shared_MANNYTD/Saved/M_Wall_22322919540E4C0C9A5D22CB112991386.tmp' to '../../../projects/Shared_MANNYTD/Content/UnrealMarketPlaceContent/Sci-Fi_Modular_Interior_Space_Station/Materials/M_Wall_2.uasset'
+[2022.08.20-19.40.30:456][474]LogTexture: Display: Building textures: /Game/Sci-Fi_Modular_Interior_Space_Station/Textures/Pipes/T_Small_Pipe_01_BaseColor.T_Small_Pipe_01_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
