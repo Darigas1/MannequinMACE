@@ -1,3 +1,11 @@
+# ignore ALL files in directory UnrealMarketPlaceContent
 /Content/UnrealMarketPlaceContent/
-**/Saved/
-**/Intermediate/
+
+# ignore ALL files in directory named Saved
+/Saved/
+
+# ignore ALL files in directory named Intermediate
+/Intermediate/
+
+# ignore ALL .log files
+*.log
